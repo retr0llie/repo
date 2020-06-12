@@ -1,10 +1,11 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.retr0llie</id>
+	<name>Testing</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.5</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Testing this</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
